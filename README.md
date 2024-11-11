@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Irvis Ozuna 👋
 
-<!--
-**irvisozuna/irvisozuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer who loves coding and contributing to open-source projects. Here’s a little bit about me:
 
-Here are some ideas to get you started:
+## 🔭 What I'm Working On
+- [Project 1](https://github.com/irvisozuna/project-1): A brief description of what project 1 is about.
+- [Project 2](https://github.com/irvisozuna/project-2): A brief description of what project 2 is about.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 What I'm Learning
+- Learning about advanced JavaScript frameworks.
+- Exploring cloud computing with AWS.
+
+## 💬 Ask Me About
+- Web development
+- Open-source contributions
+- Any interesting tech topics!
+
+## 📫 How to Reach Me
+- Email: [your-email@example.com](mailto:your-email@example.com)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+
+## ⚡ Fun Fact
+- I love hiking and exploring new places.
+
+Thanks for visiting my profile! Feel free to check out my repositories and get in touch!
