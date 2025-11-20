@@ -54,12 +54,11 @@ I'm a passionate web developer who loves building innovative solutions and explo
 - React, Vue 3, TypeScript
 - Next.js, Nuxt.js
 - Tailwind CSS, Styled Components
-- React Query, Zustand
 
 **Backend:**
 - Node.js, NestJS, Express
 - PHP, Laravel
-- PostgreSQL, MongoDB
+- PostgreSQL, MongoDB, MySql
 - RESTful APIs, GraphQL
 
 **Tools & DevOps:**
@@ -84,7 +83,6 @@ I'm a passionate web developer who loves building innovative solutions and explo
 - 🌐 **Website:** [irvis.me](https://irvis.me)
 - 💼 **LinkedIn:** [irvisozuna](https://www.linkedin.com/in/irvisozuna/)
 - 💻 **GitHub:** [@irvisozuna](https://github.com/irvisozuna)
-- 📧 **Email:** Available on my [website](https://irvis.me)
 
 ---
 
